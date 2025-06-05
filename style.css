@@ -1,0 +1,17 @@
+/* Optional additional styles to override or extend 98.css */
+body {
+  background-color: teal;
+  margin: 20px;
+  font-family: 'MS Sans Serif', sans-serif;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+iframe {
+  width: 100%;
+  height: 300px;
+  border: none;
+}
